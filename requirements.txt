@@ -1,0 +1,7 @@
+Flask==3.1.0
+Flask-Cors==5.0.1
+Flask-SQLAlchemy==3.1.1
+psycopg2-binary==2.9.10
+python-dotenv==1.1.0
+SQLAlchemy==2.0.40
+PyJWT==2.10.1

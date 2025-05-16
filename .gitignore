@@ -1,0 +1,30 @@
+# Python virtual environment
+venv/
+ENV/
+env/
+.venv/
+
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variables
+.env
+
+# Logs and local SQLite (if ever used)
+*.log
+*.sqlite3
+
+# Test output
+htmlcov/
+coverage.xml
+.pytest_cache/
+
+# VS Code & PyCharm IDE config
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
