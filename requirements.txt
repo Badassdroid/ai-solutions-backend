@@ -5,3 +5,5 @@ psycopg2-binary==2.9.10
 python-dotenv==1.1.0
 SQLAlchemy==2.0.40
 PyJWT==2.10.1
+flask
+gunicorn
